@@ -3,4 +3,4 @@ Cocos2d-x project
 
 Mini Game for Windows
 
-To start game exucute myWin10Game.exe
+To start game execute myWin10Game.exe
