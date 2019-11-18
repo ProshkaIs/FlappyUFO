@@ -1,3 +1,3 @@
 # FlappyUFO
-
-exe file name: #myWin10Game.exe
+Simple Mini Game for Windows
+To start game exucute myWin10Game.exe
